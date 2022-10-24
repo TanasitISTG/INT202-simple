@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="s651int202v034.sit.kmutt.ac.th" id="862dded8-66dc-4b75-818f-a0ba87314e34" port="22" nameFormat="DESCRIPTIVE" username="int202student" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
